@@ -1,1 +1,17 @@
-h1{color: blue;}
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Crimson+Text:ital@1&display=swap');
+
+* {
+    background: rgb(2, 0, 36);
+    background: -moz-linear-gradient(90deg, rgba(2, 0,3 6, 1) 0%, rgb(0, 0, 0) 48%, rgba(14, 22, 24, 1) 97%, rgb(0, 0, 0) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgb(0, 0, 0) 48%, rgb(0, 0, 0) 97%, rgb(0, 0, 0) 100%);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(31, 57, 189, 1) 48%, rgb(0, 0, 0) 97%, rgb(0, 0, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024", endColorstr="#00d4ff", GradientType=1);
+}
+
+* {
+    text-align: center;
+    font-family: 'Bruno Ace', cursive;
+    font-style: italic;
+    font-weight: bolder, 900;
+    border-radius: 1rcap;
+}
